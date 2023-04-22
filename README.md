@@ -2,7 +2,7 @@
 <!-- 
 **HanslettTheDev/HanslettTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### My name is Hanslett. I am a software developer and a Gamer
+### My name is Hanslett. Software Engineer/Entrepreneur/Writer/Gamer
 
 - 🔭 I’m currently working on Open Source projects, Desktop Applications and web apps
 - 🌱 I’m currently learning Mobile Development with Flutter
